@@ -28,7 +28,7 @@ Finishing
 ### HOW TO EXECUTE IT
 
 In the console, navigate to the folder where the program is located and run 
-* python3 src.main
+* python3 -m main
 
 ---
 
